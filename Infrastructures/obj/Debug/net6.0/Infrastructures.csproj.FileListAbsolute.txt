@@ -1,0 +1,38 @@
+C:\Users\hp\source\repos\Paylode_Auth\Infrastructures\bin\Debug\net6.0\Infrastructures.deps.json
+C:\Users\hp\source\repos\Paylode_Auth\Infrastructures\bin\Debug\net6.0\Infrastructures.runtimeconfig.json
+C:\Users\hp\source\repos\Paylode_Auth\Infrastructures\bin\Debug\net6.0\Infrastructures.dll
+C:\Users\hp\source\repos\Paylode_Auth\Infrastructures\bin\Debug\net6.0\Infrastructures.pdb
+C:\Users\hp\source\repos\Paylode_Auth\Infrastructures\bin\Debug\net6.0\Contracts.dll
+C:\Users\hp\source\repos\Paylode_Auth\Infrastructures\bin\Debug\net6.0\Credential_Auth.dll
+C:\Users\hp\source\repos\Paylode_Auth\Infrastructures\bin\Debug\net6.0\Contracts.pdb
+C:\Users\hp\source\repos\Paylode_Auth\Infrastructures\bin\Debug\net6.0\Credential_Auth.pdb
+C:\Users\hp\source\repos\Paylode_Auth\Infrastructures\obj\Debug\net6.0\Infrastructures.csproj.AssemblyReference.cache
+C:\Users\hp\source\repos\Paylode_Auth\Infrastructures\obj\Debug\net6.0\Infrastructures.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\source\repos\Paylode_Auth\Infrastructures\obj\Debug\net6.0\Infrastructures.AssemblyInfoInputs.cache
+C:\Users\hp\source\repos\Paylode_Auth\Infrastructures\obj\Debug\net6.0\Infrastructures.AssemblyInfo.cs
+C:\Users\hp\source\repos\Paylode_Auth\Infrastructures\obj\Debug\net6.0\Infrastructures.csproj.CoreCompileInputs.cache
+C:\Users\hp\source\repos\Paylode_Auth\Infrastructures\obj\Debug\net6.0\Infrastructures.csproj.CopyComplete
+C:\Users\hp\source\repos\Paylode_Auth\Infrastructures\obj\Debug\net6.0\Infrastructures.dll
+C:\Users\hp\source\repos\Paylode_Auth\Infrastructures\obj\Debug\net6.0\refint\Infrastructures.dll
+C:\Users\hp\source\repos\Paylode_Auth\Infrastructures\obj\Debug\net6.0\Infrastructures.pdb
+C:\Users\hp\source\repos\Paylode_Auth\Infrastructures\obj\Debug\net6.0\Infrastructures.genruntimeconfig.cache
+C:\Users\hp\source\repos\Paylode_Auth\Infrastructures\obj\Debug\net6.0\ref\Infrastructures.dll
+C:\Users\Decagon\Desktop\Git Files\Authentication-and-Authorization\Infrastructures\bin\Debug\net6.0\Infrastructures.deps.json
+C:\Users\Decagon\Desktop\Git Files\Authentication-and-Authorization\Infrastructures\bin\Debug\net6.0\Infrastructures.runtimeconfig.json
+C:\Users\Decagon\Desktop\Git Files\Authentication-and-Authorization\Infrastructures\bin\Debug\net6.0\Infrastructures.dll
+C:\Users\Decagon\Desktop\Git Files\Authentication-and-Authorization\Infrastructures\bin\Debug\net6.0\Infrastructures.pdb
+C:\Users\Decagon\Desktop\Git Files\Authentication-and-Authorization\Infrastructures\bin\Debug\net6.0\Contracts.dll
+C:\Users\Decagon\Desktop\Git Files\Authentication-and-Authorization\Infrastructures\bin\Debug\net6.0\Credential_Auth.dll
+C:\Users\Decagon\Desktop\Git Files\Authentication-and-Authorization\Infrastructures\bin\Debug\net6.0\Contracts.pdb
+C:\Users\Decagon\Desktop\Git Files\Authentication-and-Authorization\Infrastructures\bin\Debug\net6.0\Credential_Auth.pdb
+C:\Users\Decagon\Desktop\Git Files\Authentication-and-Authorization\Infrastructures\obj\Debug\net6.0\Infrastructures.csproj.AssemblyReference.cache
+C:\Users\Decagon\Desktop\Git Files\Authentication-and-Authorization\Infrastructures\obj\Debug\net6.0\Infrastructures.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Decagon\Desktop\Git Files\Authentication-and-Authorization\Infrastructures\obj\Debug\net6.0\Infrastructures.AssemblyInfoInputs.cache
+C:\Users\Decagon\Desktop\Git Files\Authentication-and-Authorization\Infrastructures\obj\Debug\net6.0\Infrastructures.AssemblyInfo.cs
+C:\Users\Decagon\Desktop\Git Files\Authentication-and-Authorization\Infrastructures\obj\Debug\net6.0\Infrastructures.csproj.CoreCompileInputs.cache
+C:\Users\Decagon\Desktop\Git Files\Authentication-and-Authorization\Infrastructures\obj\Debug\net6.0\Infrastructures.csproj.CopyComplete
+C:\Users\Decagon\Desktop\Git Files\Authentication-and-Authorization\Infrastructures\obj\Debug\net6.0\Infrastructures.dll
+C:\Users\Decagon\Desktop\Git Files\Authentication-and-Authorization\Infrastructures\obj\Debug\net6.0\refint\Infrastructures.dll
+C:\Users\Decagon\Desktop\Git Files\Authentication-and-Authorization\Infrastructures\obj\Debug\net6.0\Infrastructures.pdb
+C:\Users\Decagon\Desktop\Git Files\Authentication-and-Authorization\Infrastructures\obj\Debug\net6.0\Infrastructures.genruntimeconfig.cache
+C:\Users\Decagon\Desktop\Git Files\Authentication-and-Authorization\Infrastructures\obj\Debug\net6.0\ref\Infrastructures.dll
